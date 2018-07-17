@@ -34,6 +34,10 @@ Add only facade in your `config/app.php`
 
 After, run `php artisan package:discover` to publish extras providers.
 
+## Run Tests
+
+``$ vendor/phpunit/phpunit/phpunit tests``
+
 ## Important
 
 - In `SqsClient config` the `service` and `version` is hardcoded because the AWS methods are modified between versions.
