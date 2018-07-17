@@ -1,5 +1,5 @@
 {
-  "name": "sqs-php-pipeline",
+  "name": "arquivei/sqs-php-pipeline",
   "description": "SQS PHP Pipeline",
   "license": "Apache-2.0",
   "keywords": [
